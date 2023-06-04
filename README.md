@@ -5,7 +5,11 @@
 ## intro_markdown.md
 > Markdown极简入门
 
+## uwsgi_nginx.md
+> 服务器部署（uwsgi/nginx）
+
 ## Git and GitHub
+* https://www.runoob.com/git/git-tutorial.html
 
 ## MySQL
 
